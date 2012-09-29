@@ -1,5 +1,13 @@
 source 'https://rubygems.org'
 
+#group :production, :staging do
+#  gem "pg"
+#end
+#
+#group :development, :test do
+#  gem "sqlite3-ruby", :require => "sqlite3"
+#end
+
 gem 'rails', '3.2.8'
 
 # Bundle edge Rails instead:
